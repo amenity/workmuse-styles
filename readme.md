@@ -8,4 +8,4 @@ We have integrated Eric Meyer’s CSS reset rules (http://meyerweb.com/eric/tool
 
 Live
 =========
-workmuse.com/styles
+(http://workmuse.com/styles)
